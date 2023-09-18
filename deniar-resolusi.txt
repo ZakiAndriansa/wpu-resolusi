@@ -1,0 +1,5 @@
+Halo Pak, salam kenal nama saya Deniar Aufan Ni'am dari Depok. Saya pelajar dari SMKN 1 Depok. Saya sedang duduk dibangku kelas 11 di tahun 2023 ini.
+
+Resolusi tahun 2023:
+- Membuat web public menggunakan laravel.
+- menguasai oop dan laravel.
